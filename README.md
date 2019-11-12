@@ -7,3 +7,6 @@ OBSのソース追加でブラウザを選択
 https://www.youtube.com/watch?v=gsc1GWBkMx4  
 ↓  
 https://www.youtube.com/embed/gsc1GWBkMx4?autoplay=1
+
+## 注意
+配信者の設定によってはYoutube以外での再生を許可していない場合は使用できません
